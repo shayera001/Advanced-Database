@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph mode="static" defaultedgetype="directed">
+    <nodes>
+      <node id="3198446" label="hear" />
+      <node id="118027" label="wsg" />
+      <node id="101379" label="fif" />
+      <node id="3655454" label="worx" />
+      <node id="108318" label="mpa" />
+      <node id="2996745" label="alec" />
+      <node id="116100" label="usb" />
+      <node id="3452" label="lh" />
+      <node id="3000946" label="apps" />
+      <node id="110847" label="pds" />
+      <node id="3526476" label="self" />
+      <node id="3215" label="ds" />
+      <node id="114376" label="syn" />
+      <node id="3239" label="el" />
+      <node id="3506587" label="rous" />
+      <node id="3552281" label="tags" />
+      <node id="3712" label="tt" />
+      <node id="99470" label="dis" />
+      <node id="3662" label="sa" />
+      <node id="3577" label="pi" />
+      <node id="3351604" label="mime" />
+      <node id="101577" label="for" />
+      <node id="3083531" label="dint" />
+      <node id="3505961" label="roam" />
+      <node id="97548" label="bis" />
+      <node id="97110" label="azo" />
+      <node id="3127784" label="expe" />
+      <node id="3291757" label="kids" />
+      <node id="100278" label="edu" />
+      <node id="102087" label="gaa" />
+      <node id="96416" label="adc" />
+      <node id="3065381" label="cure" />
+      <node id="3496691" label="rell" />
+      <node id="96865" label="arr" />
+      <node id="3208508" label="hope" />
+      <node id="97315" label="bbc" />
+      <node id="109948" label="ofs" />
+      <node id="112272" label="qsr" />
+      <node id="98629" label="cmo" />
+      <node id="3095168" label="dura" />
+      <node id="109887" label="odt" />
+      <node id="3462797" label="qada" />
+      <node id="3387" label="je" />
+      <node id="96495" label="aft" />
+      <node id="3208" label="dl" />
+      <node id="3145580" label="flag" />
+      <node id="3314449" label="laws" />
+      <node id="3165055" label="gain" />
+      <node id="117047" label="vrs" />
+      <node id="3225720" label="ibml" />
+      <node id="109248" label="noa" />
+      <node id="112912" label="rig" />
+      <node id="101732" label="ftr" />
+      <node id="101516" label="fms" />
+      <node id="120792" label="zom" />
+      <node id="98694" label="cor" />
+      <node id="3541072" label="stra" />
+      <node id="100741" label="ess" />
+      <node id="101139" label="fan" />
+      <node id="117595" label="wei" />
+      <node id="3522941" label="save" />
+      <node id="3505994" label="robo" />
+      <node id="97544" label="bio" />
+      <node id="104053" label="ibn" />
+      <node id="3362871" label="muds" />
+      <node id="109011" label="ngl" />
+      <node id="97739" label="box" />
+      <node id="3593417" label="umar" />
+      <node id="96676" label="alo" />
+      <node id="3127794" label="expo" />
+      <node id="107533" label="luv" />
+      <node id="3105" label="ab" />
+      <node id="114231" label="stx" />
+      <node id="3167" label="cb" />
+      <node id="113695" label="sco" />
+      <node id="96519" label="agm" />
+      <node id="100716" label="ery" />
+      <node id="110875" label="pep" />
+      <node id="3363318" label="musa" />
+      <node id="3128418" label="eyes" />
+      <node id="99562" label="dlr" />
+      <node id="107297" label="lnc" />
+      <node id="108833" label="nat" />
+      <node id="108304" label="mor" />
+      <node id="3261" label="fc" />
+      <node id="115552" label="ual" />
+      <node id="3506279" label="roku" />
+      <node id="3122001" label="eros" />
+      <node id="111203" label="ppc" />
+      <node id="115590" label="ubs" />
+      <node id="3148987" label="ford" />
+      <node id="3062095" label="cree" />
+      <node id="96521" label="ago" />
+      <node id="115276" label="two" />
+      <node id="3244" label="eq" />
+      <node id="3892" label="zn" />
+      <node id="112879" label="rhe" />
+      <node id="96666" label="ale" />
+      <node id="3568673" label="tril" />
+      <node id="116068" label="ura" />
+      <node id="99651" label="don" />
+      <node id="111296" label="psc" />
+      <node id="3321" label="ha" />
+      <node id="100431" label="eis" />
+      <node id="96850" label="arc" />
+      <node id="114781" label="tgp" />
+      <node id="3489" label="mn" />
+      <node id="101733" label="fts" />
+      <node id="113878" label="sil" />
+      <node id="3127333" label="exas" />
+      <node id="3194937" label="hall" />
+      <node id="3522355" label="sach" />
+      <node id="114157" label="srl" />
+      <node id="3415" label="kb" />
+      <node id="2996695" label="alco" />
+      <node id="97362" label="bcs" />
+      <node id="3769" label="vo" />
+      <node id="3181143" label="gram" />
+      <node id="3761" label="vg" />
+      <node id="98794" label="cry" />
+      <node id="113693" label="scm" />
+      <node id="3135544" label="faro" />
+      <node id="3046157" label="cara" />
+      <node id="107870" label="mar" />
+      <node id="102135" label="gbr" />
+      <node id="99281" label="dcp" />
+      <node id="98691" label="coo" />
+      <node id="116138" label="uti" />
+      <node id="3530396" label="sint" />
+      <node id="96383" label="aca" />
+    </nodes>
+    <edges>
+      <edge source="3105" target="3215" label="0.508842" />
+      <edge source="3105" target="97548" label="0.563362" />
+      <edge source="3167" target="3208" label="0.427108" />
+      <edge source="3167" target="3215" label="0.520017" />
+      <edge source="3215" target="100741" label="0.513187" />
+      <edge source="3215" target="116100" label="0.557769" />
+      <edge source="3215" target="3127784" label="0.530456" />
+      <edge source="3239" target="104053" label="0.468549" />
+      <edge source="3239" target="3046157" label="0.457741" />
+      <edge source="3261" target="3215" label="0.429748" />
+      <edge source="3261" target="117047" label="0.674075" />
+      <edge source="3321" target="3892" label="0.601073" />
+      <edge source="3387" target="3769" label="0.456024" />
+      <edge source="3387" target="96865" label="0.52079" />
+      <edge source="3387" target="113878" label="0.468402" />
+      <edge source="3387" target="3541072" label="0.581609" />
+      <edge source="3415" target="96416" label="0.551124" />
+      <edge source="3489" target="3568673" label="0.485234" />
+      <edge source="3577" target="3215" label="0.5782" />
+      <edge source="3712" target="3215" label="0.465885" />
+      <edge source="3761" target="100431" label="0.488783" />
+      <edge source="96416" target="116100" label="0.519484" />
+      <edge source="96495" target="3095168" label="0.725226" />
+      <edge source="96519" target="98629" label="0.799019" />
+      <edge source="96521" target="115276" label="0.769071" />
+      <edge source="96666" target="2996695" label="0.666356" />
+      <edge source="96676" target="3215" label="0.429864" />
+      <edge source="96676" target="3769" label="0.479471" />
+      <edge source="96676" target="100431" label="0.430879" />
+      <edge source="96850" target="98794" label="0.814145" />
+      <edge source="96865" target="3496691" label="0.505618" />
+      <edge source="97315" target="109948" label="0.646404" />
+      <edge source="97315" target="116100" label="0.471967" />
+      <edge source="97544" target="114376" label="0.695603" />
+      <edge source="97739" target="3194937" label="0.81702" />
+      <edge source="98691" target="98794" label="0.702488" />
+      <edge source="98691" target="114781" label="0.655269" />
+      <edge source="98694" target="3662" label="0.539415" />
+      <edge source="98694" target="3046157" label="0.514952" />
+      <edge source="98794" target="3198446" label="0.623709" />
+      <edge source="99281" target="98629" label="0.653334" />
+      <edge source="99470" target="3215" label="0.553828" />
+      <edge source="99470" target="3083531" label="0.79824" />
+      <edge source="99470" target="3526476" label="0.721801" />
+      <edge source="99562" target="114231" label="0.355771" />
+      <edge source="99562" target="3568673" label="0.488319" />
+      <edge source="99651" target="120792" label="0.72974" />
+      <edge source="99651" target="3505961" label="0.730784" />
+      <edge source="100278" target="96383" label="0.535386" />
+      <edge source="100278" target="97362" label="0.547641" />
+      <edge source="100431" target="114376" label="0.49477" />
+      <edge source="100431" target="116068" label="0.480763" />
+      <edge source="100431" target="3122001" label="0.596121" />
+      <edge source="100431" target="3363318" label="0.47472" />
+      <edge source="100716" target="3215" label="0.492893" />
+      <edge source="101516" target="100431" label="0.610232" />
+      <edge source="101577" target="115276" label="0.71975" />
+      <edge source="101577" target="3165055" label="0.739944" />
+      <edge source="101577" target="3522941" label="0.7416" />
+      <edge source="101732" target="102135" label="0.705436" />
+      <edge source="102087" target="100431" label="0.588798" />
+      <edge source="102135" target="114781" label="0.526753" />
+      <edge source="102135" target="3046157" label="0.493593" />
+      <edge source="102135" target="3127794" label="0.770677" />
+      <edge source="104053" target="3462797" label="0.672799" />
+      <edge source="107297" target="114157" label="0.613332" />
+      <edge source="107297" target="3127333" label="0.569447" />
+      <edge source="107297" target="3506279" label="0.56425" />
+      <edge source="107533" target="101139" label="0.752204" />
+      <edge source="107533" target="116068" label="0.518008" />
+      <edge source="107533" target="3065381" label="0.797071" />
+      <edge source="107870" target="108833" label="0.759597" />
+      <edge source="108304" target="3215" label="0.488955" />
+      <edge source="108318" target="3892" label="0.492108" />
+      <edge source="108833" target="3215" label="0.444822" />
+      <edge source="109011" target="3892" label="0.544068" />
+      <edge source="109011" target="112912" label="0.762504" />
+      <edge source="109887" target="116100" label="0.581117" />
+      <edge source="110875" target="3291757" label="0.764295" />
+      <edge source="111203" target="97315" label="0.606208" />
+      <edge source="111203" target="98629" label="0.592611" />
+      <edge source="111296" target="101733" label="0.555008" />
+      <edge source="112879" target="117047" label="0.726799" />
+      <edge source="113693" target="3452" label="0.633867" />
+      <edge source="113693" target="109011" label="0.511708" />
+      <edge source="113693" target="110847" label="0.603358" />
+      <edge source="113693" target="3181143" label="0.630871" />
+      <edge source="113695" target="3215" label="0.576042" />
+      <edge source="114231" target="115590" label="0.607222" />
+      <edge source="114376" target="97110" label="0.530049" />
+      <edge source="115590" target="100431" label="0.556225" />
+      <edge source="116068" target="96383" label="0.500611" />
+      <edge source="116138" target="100431" label="0.473333" />
+      <edge source="116138" target="115552" label="0.545929" />
+      <edge source="117595" target="113878" label="0.524841" />
+      <edge source="120792" target="2996695" label="0.5814" />
+      <edge source="120792" target="3505994" label="0.752399" />
+      <edge source="120792" target="3506279" label="0.522946" />
+      <edge source="2996745" target="107533" label="0.486818" />
+      <edge source="3000946" target="116100" label="0.708235" />
+      <edge source="3000946" target="3552281" label="0.804155" />
+      <edge source="3046157" target="100431" label="0.41461" />
+      <edge source="3046157" target="112272" label="0.690551" />
+      <edge source="3095168" target="3046157" label="0.586716" />
+      <edge source="3127794" target="3194937" label="0.740584" />
+      <edge source="3128418" target="98794" label="0.749393" />
+      <edge source="3135544" target="3046157" label="0.643355" />
+      <edge source="3145580" target="3552281" label="0.75726" />
+      <edge source="3148987" target="3215" label="0.611955" />
+      <edge source="3208508" target="3065381" label="0.770068" />
+      <edge source="3351604" target="110875" label="0.764107" />
+      <edge source="3351604" target="3122001" label="0.700271" />
+      <edge source="3362871" target="114376" label="0.6358" />
+      <edge source="3362871" target="3314449" label="0.833155" />
+      <edge source="3506279" target="3215" label="0.460594" />
+      <edge source="3506279" target="3244" label="0.57483" />
+      <edge source="3506279" target="3892" label="0.426465" />
+      <edge source="3506279" target="118027" label="0.58767" />
+      <edge source="3506279" target="3062095" label="0.550108" />
+      <edge source="3506587" target="116068" label="0.570653" />
+      <edge source="3522355" target="100431" label="0.415097" />
+      <edge source="3522355" target="109248" label="0.481854" />
+      <edge source="3522941" target="3065381" label="0.774395" />
+      <edge source="3530396" target="3496691" label="0.664022" />
+      <edge source="3593417" target="101379" label="0.529575" />
+      <edge source="3593417" target="111296" label="0.523687" />
+      <edge source="3593417" target="3522355" label="0.367722" />
+      <edge source="3655454" target="3225720" label="0.660734" />
+      <edge source="3655454" target="3506279" label="0.560521" />
+    </edges>
+  </graph>
+</gexf>
